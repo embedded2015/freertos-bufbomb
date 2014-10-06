@@ -9,3 +9,5 @@ test-romfs.bin
 build
 output
 tags
+cscope.out
+exploit.bytes
